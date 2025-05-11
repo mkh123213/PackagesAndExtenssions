@@ -14,4 +14,3 @@ chatgpt easycode
 
 thender code  // تشبه بوست مانمن اجل عمل جت و بوست
 
-Screen_utils  // من اجل الرسبونسف
