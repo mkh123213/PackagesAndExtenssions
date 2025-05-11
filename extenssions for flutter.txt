@@ -1,0 +1,15 @@
+flutter widget snippets
+json to dart model
+pieces for vs code
+bloc
+pubspic assets
+git graph
+git lens
+assets gen  //من اجل صنع مسارات للصور ووضعها في class خاص بها
+
+اضافات بديلة للذكاء الصناعي
+codeium
+chatgpt easycode
+
+
+thender code  // تشبه بوست مانمن اجل عمل جت و بوست
