@@ -14,3 +14,4 @@ chatgpt easycode
 
 thender code  // تشبه بوست مانمن اجل عمل جت و بوست
 
+svgpreview // من اجل عرض svg  في داخل المحرر
