@@ -14,4 +14,7 @@ chatgpt easycode
 
 thender code  // تشبه بوست مانمن اجل عمل جت و بوست
 
-svgpreview // من اجل عرض svg  في داخل المحرر
+svgpreview // من اجل عرض svg  في داخل المحررv
+
+
+version lens  // لتحديث الباكج في ببسبك يامل الى اخر اصدارات
